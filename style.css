@@ -1,0 +1,10 @@
+body {
+  background-image: url(images/bg-blackjack.jpg);
+  background-size: cover;
+  text-align: right;
+  color: white;
+  min-width: 600px;
+  max-width: 900px;
+  background-repeat: no-repeat;
+  /* background-position: center; */
+}
